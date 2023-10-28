@@ -1,0 +1,100 @@
+.second_frame {
+  height: 160px;
+}
+
+.quotes-row {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.quotes-column01 {
+  text-align: center;
+  width: 370px;
+  height: 138px;
+  margin: 0px 45px;
+  padding: 0px 20px;
+}
+
+.cultivate-originality h1 {
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: 0.10em;
+}
+
+.cultivate-originality h1 span {
+  background: linear-gradient(90deg, #12C2E9, #A33CD5, #EF1D29);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cultivate-originality p {
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+}
+
+
+
+.quotes-column02 {
+  text-align: center;
+  width: 370px;
+  height: 138px;
+  margin: 0px 30px;
+  padding: 0px 10px;
+  border-left: 1px solid gray;
+}
+
+
+.Informative-engaging h1 {
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+}
+
+.Informative-engaging h1 span {
+  background: linear-gradient(90deg, #12C2E9, #A33CD5, #EF1D29);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.Informative-engaging p {
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+  font-style: var(--font-poppins);
+
+}
+
+
+.quotes-column03 {
+  text-align: center;
+  width: 370px;
+  height: 138px;
+  margin: 0px -10px;
+  padding: 0px 20px;
+  border-left: 1px solid gray;
+}
+
+
+.transparent-responsive h1 {
+  font-size: 21px;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+}
+
+.transparent-responsive h1 span {
+  background: linear-gradient(90deg, #12C2E9, #A33CD5, #EF1D29);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.transparent-responsive p {
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+
+}
